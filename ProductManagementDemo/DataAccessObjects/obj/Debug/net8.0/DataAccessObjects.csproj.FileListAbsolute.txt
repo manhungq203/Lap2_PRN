@@ -15,3 +15,6 @@ D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObj
 D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
 D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.genruntimeconfig.cache
 D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll
+D:\Ky_5\Lap2\Lap2_PRN\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+D:\Ky_5\Lap2\Lap2_PRN\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+D:\Ky_5\Lap2\Lap2_PRN\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
