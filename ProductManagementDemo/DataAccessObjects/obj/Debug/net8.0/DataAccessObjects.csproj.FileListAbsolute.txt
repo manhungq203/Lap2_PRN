@@ -1,0 +1,17 @@
+D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.AssemblyReference.cache
+D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfo.cs
+D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+D:\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.deps.json
+D:\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.runtimeconfig.json
+D:\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll
+D:\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAcce.79975846.Up2Date
+D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
+D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.genruntimeconfig.cache
+D:\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll
